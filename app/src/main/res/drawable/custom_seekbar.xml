@@ -9,6 +9,6 @@
         android:drawable="@drawable/empty"/>
     <item
         android:id="@android:id/progress"
-        android:drawable="@drawable/full_normal"/>
+        android:drawable="@drawable/progress_clip"/>
 
 </layer-list>
