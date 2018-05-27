@@ -14,6 +14,7 @@
         android:layout_marginStart="144.5dp"
         android:layout_marginTop="200dp"
         android:max="6"
+        android:thumb="@drawable/thumb"
         android:padding="0dp"
         android:paddingBottom="0dp"
         android:paddingEnd="0dp"
